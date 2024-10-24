@@ -1,0 +1,1 @@
+# It's a mobile app for learning ograic chemistry
